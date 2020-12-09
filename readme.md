@@ -1,2 +1,2 @@
-# Otsikko, jota muutettu GitHubissa
+# Otsikko, jota on muutettu GitHubissa
 
